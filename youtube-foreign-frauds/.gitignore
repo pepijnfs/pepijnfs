@@ -1,0 +1,10 @@
+# Generated output (regenerate with fetch_videos.py)
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Never commit secrets
+.env
+*.key
