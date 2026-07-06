@@ -59,3 +59,63 @@ Pick 1–2 to green-light. For each, the pipeline's next phase is a **deep resea
 (timeline, key players, the "how the scam worked" mechanics, sources, and the strongest
 visual beats) plus a **draft title/thumbnail set and a video outline** in the
 named-protagonist + downfall + dollar-figure format the inspiration analysis proved out.
+
+---
+
+# APPENDIX (added 2026-07-06) — broadened beyond China/Korea
+
+Scope widened per direction: the channel home audience is EU/US, so **"foreign" = anything
+non-standard-EU/US** (Middle East, Africa, South Asia, Japan, Russia, SE Asia, Latin America).
+Ran the saturation probe across 18 more candidates (`reports/saturation_global.md/.json`).
+This section is **additive** — nothing above is changed.
+
+### The key pattern in the data (this should steer topic selection)
+- **Middle East & Africa are the sweet spot:** big scale, dramatic, and genuinely
+  **under-covered in English** (best existing videos are regional-language or small channels).
+- **India is a trap despite great stories:** Indian YouTube is enormous, so Nirav Modi (8.5M),
+  Sahara (10.9M), Harshad Mehta / *Scam 1992* (23.6M), Satyam (2.9M) are **already saturated**.
+  Skip for now unless you have a sharply different angle.
+- **The famous ones are taken:** OneCoin (BBC, 2.6M) and **1MDB (MagnatesMedia, 4.3M)** are done
+  well already. Note: **MagnatesMedia is a direct genre competitor** — worth adding to the
+  inspiration-tracking set alongside Logically Answered / ColdFusion.
+
+### New top picks (best fit from the broadened set)
+
+**A. Abraaj Group — UAE/Dubai · ~$1B · ⭐ best story on the whole board**
+- Arif Naqvi built the emerging-markets private-equity darling (Gates Foundation money in his
+  health fund), then misused fund cash; collapsed 2018. Arrested in London 2019, still fighting
+  US extradition. "The Key Man." Elite rise-and-fall protagonist.
+- **Saturation:** only a WSJ mini-doc (~116K) — no definitive long-form. **Wide open.**
+
+**B. Steinhoff — South Africa · $7.4B · ⭐ biggest scale + recent hook**
+- "Enron of South Africa." CEO **Markus Jooste died by suicide in 2024** as prosecution loomed.
+  Huge number, tragic ending, global retailer (Mattress Firm, etc.) most viewers unknowingly touched.
+- **Saturation:** best treatment is a SA channel (~191K) — under-covered internationally.
+
+**C. Thodex — Turkey · ~$2B · ⭐ best "hook" title**
+- Founder Faruk Fatih Özer fled with users' crypto, caught in Albania, **sentenced to 11,196 years.**
+  The absurd sentence is an instant thumbnail/title.
+- **Saturation:** top is a German video (~100K); English lane open.
+
+**D. NMC Health — UAE/Abu Dhabi · $4B hidden debt**
+- Migrant-pharmacist BR Shetty built a FTSE-100 hospital empire that hid billions; collapsed 2020.
+  Rags-to-riches-to-ruin arc with an audit-failure spine.
+- **Saturation:** best is a Malayalam video (~28K) — **English near-zero.**
+
+**E. Mirror Trading International — South Africa · $588M BTC** *(crypto caveat)*
+- Largest crypto scam of 2020 by victim count; Johann Steynberg fled to Brazil and **died in
+  custody 2024.** Strong true-crime, though crypto is less evergreen than the above.
+
+### Honorable mentions (parked, still non-EU/US)
+- **MMM / Sergei Mavrodi (Russia)** — the archetypal post-Soviet pyramid, ~10M victims; a decent
+  266K video exists but there's room for a definitive origin-of-the-Ponzi telling.
+- **Çiftlik Bank (Turkey, $130M)** — mobile-game "virtual farm" Ponzi; quirky, English near-zero (smaller scale).
+- **Hin Leong / O.K. Lim (Singapore, $3.5B)** — oil-trading fraud; Bloomberg did a 604K version (moderately covered).
+- **Olympus (Japan, $1.7B)** — whistleblower-CEO hook, but a ~796K treatment already exists.
+- **Oceanografía (Mexico, $400M)** — Citibank/Pemex forged-invoice fraud; English-open but smaller and complex.
+
+### Combined recommendation (China/Korea list + this appendix)
+Strongest first videos overall: **Ezubao** (China, $7.6B, wide open) and **Abraaj** (UAE, elite
+story, wide open) — one Asian, one Middle Eastern, both big and genuinely under-covered.
+**Kingold** (visual hook) and **Steinhoff** (scale + recency) are close behind.
+Korea remains the weak lane (see the Korea-gap note above) and likely needs its own research pass.
