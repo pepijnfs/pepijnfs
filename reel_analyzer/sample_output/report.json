@@ -1,0 +1,107 @@
+{
+  "source": "DXCkOJxjdnb.mp4",
+  "social_metadata": {},
+  "technical_metadata": {
+    "duration_s": 12.466259,
+    "size_bytes": 5513532,
+    "bitrate_bps": 3538211,
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "video": {
+      "codec": "h264",
+      "width": 720,
+      "height": 1280,
+      "fps": 30.0,
+      "pix_fmt": "yuv420p",
+      "nb_frames": "371"
+    },
+    "audio": {
+      "codec": "aac",
+      "sample_rate": "44100",
+      "channels": 2
+    }
+  },
+  "scene_count": 8,
+  "scenes": [
+    {
+      "index": 0,
+      "start": "00:00:00.000",
+      "end": "00:00:01.567",
+      "start_s": 0.0,
+      "end_s": 1.567,
+      "duration_s": 1.567,
+      "start_frame": 0,
+      "end_frame": 47
+    },
+    {
+      "index": 1,
+      "start": "00:00:01.567",
+      "end": "00:00:03.100",
+      "start_s": 1.567,
+      "end_s": 3.1,
+      "duration_s": 1.533,
+      "start_frame": 47,
+      "end_frame": 93
+    },
+    {
+      "index": 2,
+      "start": "00:00:03.100",
+      "end": "00:00:04.667",
+      "start_s": 3.1,
+      "end_s": 4.667,
+      "duration_s": 1.567,
+      "start_frame": 93,
+      "end_frame": 140
+    },
+    {
+      "index": 3,
+      "start": "00:00:04.667",
+      "end": "00:00:06.167",
+      "start_s": 4.667,
+      "end_s": 6.167,
+      "duration_s": 1.5,
+      "start_frame": 140,
+      "end_frame": 185
+    },
+    {
+      "index": 4,
+      "start": "00:00:06.167",
+      "end": "00:00:07.733",
+      "start_s": 6.167,
+      "end_s": 7.733,
+      "duration_s": 1.567,
+      "start_frame": 185,
+      "end_frame": 232
+    },
+    {
+      "index": 5,
+      "start": "00:00:07.733",
+      "end": "00:00:09.267",
+      "start_s": 7.733,
+      "end_s": 9.267,
+      "duration_s": 1.533,
+      "start_frame": 232,
+      "end_frame": 278
+    },
+    {
+      "index": 6,
+      "start": "00:00:09.267",
+      "end": "00:00:10.800",
+      "start_s": 9.267,
+      "end_s": 10.8,
+      "duration_s": 1.533,
+      "start_frame": 278,
+      "end_frame": 324
+    },
+    {
+      "index": 7,
+      "start": "00:00:10.800",
+      "end": "00:00:12.367",
+      "start_s": 10.8,
+      "end_s": 12.367,
+      "duration_s": 1.567,
+      "start_frame": 324,
+      "end_frame": 371
+    }
+  ],
+  "contact_sheet": "clean_out/contact_sheet.jpg"
+}

@@ -1,0 +1,4 @@
+# analysis outputs (regenerate with analyze_reel.py)
+reel_out/
+*.mp4
+*.info.json
