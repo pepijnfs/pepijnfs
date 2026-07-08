@@ -1,138 +1,121 @@
-# Brand Kit — "Hidden Stays" (v1)
+# Brand Kit — Personal Brand (v2)
 
-A starting identity for a hidden-gems travel account that shows **the place _and_ the stay**.
-Everything here is a recommended default — swap any line and I'll rebuild around it.
+A personal-brand identity for a travel creator who finds **hidden gems** and shows the
+**whole stay** — the place *and* the hotel/area, not just the scenery.
 
----
+> **Why personal, not a themed page:** a named creator sells far better — hotels and tourism
+> boards pay for a face, trust, and a para-social audience, not a faceless feed. A themed handle
+> ("Hidden Stays") is a commodity anyone can clone and reads as a repost/aggregator page. **You**
+> are the defensible asset. The niche below is unchanged — only the front door is now a person.
 
-## The 4 core decisions (my picks — tell me to change any)
-
-| Fork | My pick | Why |
-|---|---|---|
-| **On-camera** | **Light presence** | Cinematic scenery + hotel b-roll, with recurring human moments (a hand, a silhouette, walking away, POV). Keeps the premium look *and* the personal pull — and hotels still see "a real guest." |
-| **Voice** | **A duo ("we")** | You said *"the area we're staying"* — a couple/duo brand is warm, relatable, and shows the stay as an experience for two (great for hotels). Say the word if it's solo. |
-| **Name** | **Hidden Stays** | Two words that fuse "hidden gems" + the accommodation/commercial angle. Instantly tells hotels *"this account features stays."* |
-| **Tone** | **Aspirational + warm** | Dreamy and premium but still "you could actually go here." Widest appeal → the best driver of saves & sends. |
+**Assumptions to confirm:** built on the name **Pepijn** (from your email / GitHub `pepijnfs`).
+Defaulted to **solo** ("I"); if it's a **couple**, say so + give your partner's name and I'll switch
+to a duo brand. Correct either and I'll rebuild.
 
 ---
 
-## 1. Positioning (the one thing you stand for)
+## 1. Positioning (first person now)
 
-> **Hidden Stays** — the quiet corners of Europe, and the stays worth the detour.
-> We find under-the-radar towns and the boutique hotels hiding in them, and show you
-> both: the view *and* the room, the lake *and* the breakfast.
+> **I find the quiet corners of Europe — and the stays worth the detour.**
+> Under-the-radar towns and the boutique hotels hiding in them. I show you both: the view *and*
+> the room, the lake *and* the breakfast — so you can actually go.
 
-- **Who it's for:** travellers tired of the same overcrowded spots, who want beautiful,
-  bookable places most people haven't found yet.
-- **Why it's different:** most travel accounts show only the scenery. You show the
-  **whole stay** — which is exactly what makes it *save-worthy* (people bookmark places
-  they can actually book) and *sellable* (hotels will pay for this footage).
+- **The character:** you're the friend with great taste who always finds the place nobody else knows.
+- **Why it's different:** most creators show only scenery. You show the **whole stay** — save-worthy
+  (people bookmark what they can book) *and* sellable (hotels pay for this footage, with you in it).
 
 ---
 
 ## 2. Name & handle
 
-**Primary:** `Hidden Stays` → handle **@hidden.stays** or **@hiddenstays**
-*(check availability first — IG handles go fast).*
+Build the handle on **your name + the "finder" angle** (personal + hints the niche):
 
-**Backup handles if taken:**
-- `@hiddenstays.co`
-- `@hidden.stays.eu`
-- `@thehiddenstays`
-- `@stayhidden.co`
-- `@hiddenstays.travel`
+**Primary options** *(check availability — see the report I gave you):*
+- **@pepijnfs** — continuity with your existing identity; clean, personal, almost certainly free.
+- **@pepijn.finds** / **@pepijnfinds** — name + "I find hidden gems." Ties identity to the niche. ⭐
+- **@pepijn.travels** / **@withpepijn** — classic personal-travel handle.
 
-**Alternate name directions** (if "Hidden Stays" doesn't land):
-- **Off-Map Stays** → `@offmapstays` — more wanderlust, "secret/undiscovered."
-- **The Quiet Escapes** → `@thequietescapes` — calm, slow-travel, luxury-adjacent.
-- **Tucked Away** → `@tuckedaway.co` — cozy, "places hidden from the front page."
+**If you want your full name:** `@pepijn[lastname]` — most brandable long-term; send your surname.
+
+> Recommendation: **@pepijn.finds** if free (it *says the niche*), with **@pepijnfs** as the
+> safe fallback you already own everywhere else.
 
 ---
 
-## 3. Bio (paste-ready)
+## 3. Bio (paste-ready, first person)
 
 ```
-Hidden Stays 🗺️
-Europe's quiet corners + the stays worth the detour ✈️
-Boutique hotels & hidden gems · new reel weekly
-📍 this week: Vitznau, Switzerland 🇨🇭
+Pepijn 🎥 Europe's hidden stays
+I find quiet corners + the hotels hiding in them
+New reel weekly · 📍 now: Vitznau 🇨🇭
 👇 save these for your next trip
 [link]
 ```
 
-- **Name field (the searchable one — use keywords, not just the handle):**
-  `Hidden Stays | Europe Travel & Hotels`
-- Update the `📍 this week` line each location — it makes the profile feel alive and current.
-- Put a link aggregator (Beacons/Stan/Linktree) in `[link]` with affiliate booking links.
+- **Name field (searchable — use keywords):** `Pepijn | Europe Travel & Hidden Hotels`
+- **Profile photo:** *your face*, warm, outdoors — this is the whole point of a personal brand. Not a logo.
+- Update `📍 now:` each location so the profile feels live.
 
 ---
 
 ## 4. Visual identity
 
-**Colour palette** (warm-aspirational, alpine-European):
+Same warm-alpine system as before (it fits the content) — now applied to *your* face + footage:
 
 | Role | Colour | Hex |
 |---|---|---|
-| Ink (text) | Near-black | `#1C1B19` |
+| Ink | Near-black | `#1C1B19` |
 | Base | Warm cream | `#EDE4D3` |
 | Primary | Deep pine green | `#2E3D33` |
 | Secondary | Lake slate blue | `#4A6B7A` |
 | Accent | Golden hour | `#C9A45C` |
 
-**Typography:**
-- **Wordmark / hook text:** an elegant serif — *Fraunces* or *Cormorant* (free on Google Fonts;
-  paid upgrade: Canela). Gives the premium, editorial feel.
-- **Captions / body:** a clean sans — *Inter* or *Neue Montreal*. Highly legible on video.
-
-**On-screen text style (keep identical every reel — this is your signature):**
-- Serif, white, subtle drop shadow, **top-third** of the frame.
-- Same position, same font, same size every time → instant brand recognition in the feed.
-
-**Grid / feed aesthetic:** cohesive, warm, slightly desaturated with lifted golden tones.
-Pick **one** lightweight preset/LUT and apply it to *everything* so the profile looks like one body of work.
+- **Type:** serif for hook text (*Fraunces* / *Cormorant*) + clean sans for captions (*Inter*).
+- **Signature on-screen text:** serif, white, top-third, same position every reel = instant recognition.
+- **One LUT/preset on everything** so the grid reads as one body of work.
+- **You in frame:** a recurring visual signature — e.g. always the "walk-away reveal" or "hand-in-frame
+  pointing at the view." Consistency makes you recognisable at a glance.
 
 ---
 
-## 5. Content pillars (rotate these)
+## 5. Content pillars (as "I / we")
 
-1. **The Reveal** *(hero format)* — a hidden town/stay unveiled: hook → establishing scenery →
-   the hotel/room → a detail → CTA. This is your bread-and-butter beat-synced montage.
-2. **The Stay** — a single boutique hotel showcased (room, view, breakfast, pool, terrace).
-   ← *This is the pillar you can sell to hotels as UGC.*
-3. **The Area** — what's around it: the walk, the lake, the cable car, the café, the local gem.
-4. **The Practical** *(save-magnet)* — "how to get here / what it costs / best time / where we
-   stayed." Utility drives saves harder than beauty alone.
+1. **The Find** *(hero)* — I reveal a hidden town/stay: hook → I arrive → the scenery → the hotel →
+   a detail → CTA. Beat-synced, you're the through-line.
+2. **The Stay** — I take you inside one boutique hotel (room, view, breakfast, terrace). ← *sellable UGC.*
+3. **The Area** — I show what's around it: the walk, the cable car, the café, the local secret.
+4. **The Practical** *(save-magnet)* — "how to get here / what it costs / where I stayed." Utility → saves.
 
-**Signature series names** (pick one to run weekly, builds a habit + rewatchable brand):
-- *"Would you stay here?"* · *"Hidden in [country]"* · *"The detour was worth it"*
+**Signature series** (run one weekly): *"Places I almost didn't stop"* · *"Would you stay here?"* ·
+*"Hidden in [country]."*
 
 ---
 
 ## 6. Voice & tone
 
-- Warm, first-person-plural, understated. *"We almost didn't stop here…"*
-- Confident but not salesy; let the place do the persuading.
-- Every reel ends with **one** clear CTA: **"Save this for your [region] trip 📍"**
+- Warm, first-person, understated confidence. *"I almost drove past this one…"*
+- You're a guide with taste, not a salesperson — let the place persuade.
+- One clear CTA every reel: **"Save this for your [region] trip 📍."**
 
 ---
 
-## 7. How the brand pays (built into the niche)
+## 7. How it pays (personal brand = higher ceiling)
 
-The "show the stay" angle is the monetization engine, not an afterthought:
-- **Hotel/UGC deals** — pillar #2 *is* a sellable content package. Pitch boutique hotels a
-  hosted stay for a reel + a set of clips for their own channels.
-- **Affiliate** — Booking.com / Stay22 / Viator links in bio; "where we stayed" in every caption.
-- **Tourism boards** — regional "hidden gems" series is exactly what they fund.
-
----
-
-## 8. First move (today, in Vitznau)
-
-Your first post *is* pillar #1, "The Reveal," for Vitznau. Handle to grab now: **@hidden.stays**.
-First-reel hook, on-brand: **"The Swiss village nobody tells you about 🇨🇭"** → lake jetty →
-the hotel → a detail → *"Save this for your Lake Lucerne trip 📍."*
+- **Hotel / UGC deals** — pillar #2 is a sellable package; with your face in it you charge for
+  *appearing*, not just posting. Pitch boutique hotels a hosted stay for a reel + clips.
+- **Affiliate** — Booking / Stay22 / Viator in bio; "where I stayed" in every caption.
+- **Tourism boards** — a recognisable personal "hidden gems" series is exactly what they fund.
+- **Long game** — your name becomes the asset: future channels, a guide product, trips you host.
 
 ---
 
-*Want this as a visual one-pager (palette swatches + wordmark + mock feed)? Say the word and
-I'll render it. And tell me your real name if you want the personal-brand handle option worked up.*
+## 8. First move (today, Vitznau)
+
+Grab **@pepijn.finds** (or @pepijnfs). First reel = pillar #1 "The Find" for Vitznau:
+hook *"The Swiss village I almost drove past 🇨🇭"* → you walking the jetty → the hotel → a detail →
+*"Save this for your Lake Lucerne trip 📍."* Get yourself in at least one shot.
+
+---
+
+*Confirm: (1) name/surname to finalise the handle, (2) solo or couple. Then tell me if you want the
+visual one-pager (palette + wordmark + mock feed) rendered.*
