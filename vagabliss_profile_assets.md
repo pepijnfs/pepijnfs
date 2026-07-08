@@ -101,11 +101,21 @@ Hidden gems Switzerland · boutique stays · Europe travel
 
 ---
 
-## 9. Hashtags  *(5–8, niche + specific — NOT 30)*
+## 9. Hashtags  *(filing-label logic — few, specific, tiered)*
+Research says hashtags are now **filing labels**, not growth drivers (discovery comes from
+caption + name-field keywords). So keep them few and precise, in two tiers:
+
+**Tier 1 — Niche identity** *(same every post):*
 ```
-#hiddeneurope #boutiquehotels #europetravel #hiddengems #slowtravel #switzerlandtravel #vitznau
+#hiddeneurope #hiddengems #slowtravel #boutiquehotels
 ```
-> Swap the last two for the current location each post. Keyword-rich beats high-volume-generic.
+**Tier 2 — Location** *(swap per destination):*
+```
+#vitznau #lakelucerne #myswitzerland
+```
+> Use the country's **official tourism tag** in Tier 2 (`#myswitzerland`, `#visitaustria`,
+> `#italia`) — it puts you in the pool tourism boards repost from (discovery + partnership lever).
+> No verified "magic count" exists; the verified principle is only *few, specific, relevant*.
 
 ---
 
