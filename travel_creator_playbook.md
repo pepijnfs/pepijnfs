@@ -137,34 +137,42 @@ percentage thresholds — they're invented. Build content people *send to a frie
 
 ---
 
-## Part 7 — Teardown of your reference reel 🎬
+## Part 7 — Reference teardown: why this reel worked 🎬
 
-The Austrian alpine-resort reel: **12.5s · 720×1280 · 30fps · H.264 · 8 hard-cut shots ~1.5s each,
-cut on the beat (~77 BPM) · hook text "This stay in Austria >>" · scenic b-roll (natural ponds,
-chalets, golden-hour hot-tub terrace, grazing sheep, mountain peaks).**
+This is **someone else's high-performing travel reel** — a benchmark to reverse-engineer, not a
+draft to fix. The Austrian alpine-resort reel: **~12.5s · 8 hard-cut shots ~1.5s each, cut on the
+beat (~77 BPM) · hook text "This stay in Austria >>" · scenic b-roll (natural ponds, chalets,
+golden-hour hot-tub terrace, grazing sheep, mountain peaks).**
 
-| Element | Verdict | Against best practice |
+> **On the measured 720×1280 / 30fps / 3.5 Mbps:** that's the **downloaded/compressed copy**, not
+> the creator's export. Instagram re-encodes Reels on delivery (frequently down to 720p) and the
+> downloader adds another pass, so file specs tell you nothing about the original craft. **Ignore
+> resolution/bitrate when judging this reel** — everything below is about editing and structure,
+> which survive compression.
+
+**Why it performed — the things to steal:**
+
+| Element | Why it works | Steal this |
 |---|---|---|
-| **Native vertical 9:16, H.264** | ✅ Nails it | Correct format — but only **720p**, see below |
-| **Beat-synced ~1.5s cuts** | ✅ Textbook | "Visual change every 2-3s" — this is *tighter*, keeps eyes locked |
-| **Hook text from frame 1** | 🟡 Good, improvable | Text-on-screen is right; *"This stay in Austria >>"* is vague. Name the payoff. |
-| **Scenic golden-hour b-roll** | ✅ Strong | Establishing + detail shots, warm light — the expensive-looking lever |
-| **Resolution / fps** | ⚠️ Under-spec | **720p/30fps** leaves quality on the table — shoot **4K, high-bitrate**, 60fps for hero slow-mo |
-| **Length** | 🟡 Defensible | 12.5s sits in the 7-15s "quick scenic" band; fine, but a 15-25s cut could tell a *story* (arrive → experience → CTA) |
-| **Human / POV element** | ❌ Missing | All landscape, no face/POV. A person in-frame builds trust & the para-social pull that grows a *personal* brand |
-| **Explicit CTA** | ❌ Missing | No "save this / where to book / follow for more." Add one — that's what earns saves & sends |
-| **Music licensing** | ⚠️ Watch it | If this is a paid resort promo, the audio must be Meta Sound Collection / licensed, not a trending pop track |
+| **Beat-synced ~1.5s cuts** | A visual change roughly every 1.5s (tighter than the "every 2-3s" guideline) keeps the eye locked and makes the reel *rewatchable* — rewatches and completion are real signals | Cut on the beat; map your shots to the track's BPM before editing |
+| **Aspirational montage format** | Pure "I want to be there" desire. For destination/hotel content the **place is the hook** — desire is what drives the **saves & sends** (bookmark it, send it to your travel partner) that actually move reach | Lead with your single most jaw-dropping shot |
+| **Golden-hour scenic b-roll** | Warm rim-light + wide establishing + detail shots = premium, expensive-looking. Low ISO, warm WB | Shoot your hero shots only in the golden hour |
+| **Native vertical, on-screen text from frame 1** | Fills the screen, readable sound-off, sets context instantly | Always burn in on-screen text; design for muted viewing |
+| **Tight ~12.5s length** | Sits in the 7-15s "quick scenic" band — easy to complete, easy to loop | Keep aesthetic montages short; don't pad |
 
-**One-line summary:** the reel is a beautifully-paced *aesthetic* piece that would perform as
-eye-candy, but it's built for **likes**, not for the **sends, saves, and follows** that actually
-compound growth. Fix: sharper hook, a human moment, a clear CTA, and shoot it in 4K.
+**The honest read:** this format proves an aesthetic, faceless, no-hard-CTA montage **can** win —
+*for destination/hotel content*, where the location does the persuading and the payoff is a save.
+It's not built for a personal brand; it's built to sell a place. That's a deliberate, effective choice.
 
-**A stronger recut of the same footage:**
-1. **0.0-1.5s** — best single shot (the infinity-pond-with-mountains) + specific hook text:
-   *"You can swim in this pond at 1,000m in Austria 🇦🇹"*
-2. **1.5-12s** — keep the beat-synced montage (it's the strongest part).
-3. **New 12-18s** — add a POV/human beat (someone stepping into the hot tub at golden hour).
-4. **18-22s** — end card CTA: *"Save this for your Austria trip · full guide in comments."*
+**What that means for *your* content (adapting a proven format, not fixing this one):**
+- The montage + beat-sync + golden-hour formula is validated — **use it as your base template.**
+- To turn it into a *personal* brand (vs an anonymous hotel promo), layer in what this reel
+  deliberately omits: **a recurring human/POV moment** (builds the para-social pull) and **one clear
+  CTA** (*"save this for your Austria trip"*) to convert desire into saves/sends/follows.
+- Its hook text *"This stay in Austria >>"* is functional but generic — you can beat it with
+  specificity: *"You can swim in this mountain pond at 1,000m 🇦🇹."* Same footage, stronger hold.
+- **If you ever repost/recreate it:** licence the audio (Meta Sound Collection for brand accounts)
+  and never carry another platform's watermark — both throttle reach.
 
 ---
 
