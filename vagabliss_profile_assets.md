@@ -96,21 +96,29 @@ Would you stay here? 👇 Save it for your Italy trip.
 
 ---
 
-## 9. Hashtags  *(filing-label logic — few, specific, tiered)*
-Research says hashtags are now **filing labels**, not growth drivers (discovery comes from
-caption + name-field keywords). So keep them few and precise, in two tiers:
+## 9. Hashtags  *(MAX 5 — platform-enforced)*
 
-**Tier 1 — Niche identity** *(same every post):*
+Instagram capped hashtags at **5 per post/reel** (December 2025 update). The 6th tag onward
+does not register as a hashtag (it shows as plain text), and going over 5 suppresses
+distribution. Some accounts are held to 3. So: 5 hard maximum.
+
+Use 2 niche + 3 location:
+
+**Niche identity** *(2, same every post):*
 ```
-#hiddeneurope #hiddengems #slowtravel #boutiquehotels
+#hiddengems #slowtravel
 ```
-**Tier 2 — Location** *(swap per destination):*
+**Location** *(3, swap per destination):*
 ```
-#vitznau #lakelucerne #myswitzerland
+#lakegarda #lagodigarda #gargnano
 ```
-> Use the country's **official tourism tag** in Tier 2 (`#myswitzerland`, `#visitaustria`,
-> `#italia`) — it puts you in the pool tourism boards repost from (discovery + partnership lever).
-> No verified "magic count" exists; the verified principle is only *few, specific, relevant*.
+Full set example (Gargnano):
+```
+#hiddengems #slowtravel #lakegarda #lagodigarda #gargnano
+```
+> Location tip: include the local-language name (`#lagodigarda`) and the specific town
+> (`#gargnano`, low competition). Post them in the first comment at publish time, not edited in
+> later. Discovery now comes from caption + name-field keywords, not tags.
 
 ---
 
