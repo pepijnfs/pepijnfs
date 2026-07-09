@@ -65,38 +65,33 @@ Hook text (burn on frame 1, serif, top-third — your signature):
 
 ---
 
-## 8. Caption template  *(reuse every post)*
+## 8. Caption template  *(fixed style, reuse every post)*
+
+Rules: plain sentences, no em-dashes, no flowery prose. Facts over adjectives.
+
 ```
-[Hook line — repeat/extend the on-screen hook]
+The town of [Name]: the side of [region] nobody tells you about [flag]
 
-[2–3 short lines: the story + why it's worth the detour]
+[2-4 plain factual sentences: why it's a gem, the value, the character.]
 
-📍 [Place, Country]
-🏨 Where we stayed: [hotel] (link in bio)
-💶 [rough cost / best season — the practical bit that earns saves]
+📍 [Town, Region, Country]
+🍴 Restaurants between €[X]-[Y] per person
+🏨 Hotels up to [X]% cheaper
 
-👇 Save this for your [region] trip.
-
-.
-[keywords woven in: hidden gems, boutique hotel, Europe travel]
+Would you stay here? 👇 Save it for your [country] trip.
 ```
 
-### Filled example — Vitznau
+### Filled example — Gargnano
 ```
-The Swiss village we almost drove past 🇨🇭
+The town of Gargnano: the side of Lake Garda nobody tells you about 🇮🇹
 
-Vitznau sits on Lake Lucerne at the foot of Rigi — flower-lined jetties,
-lake steamers, and Europe's oldest mountain railway. Ten minutes from the
-crowds, a completely different Switzerland.
+Less touristy than the south and east shores. Same water, fewer crowds. Hotels up to 50% cheaper. Lakefront espresso is still 1.10 euro. Olive groves and an old fishing harbour.
 
-📍 Vitznau, Switzerland
-🏨 Where we stayed: [hotel] (link in bio)
-💶 Best in summer for the lake swims
+📍 Gargnano, Lake Garda, Italy
+🍴 Restaurants between €10-40 per person
+🏨 Hotels up to 50% cheaper
 
-👇 Save this for your Lake Lucerne trip.
-
-.
-Hidden gems Switzerland · boutique stays · Europe travel
+Would you stay here? 👇 Save it for your Italy trip.
 ```
 
 ---
