@@ -65,25 +65,49 @@ Hook text (burn on frame 1, serif, top-third — your signature):
 
 ---
 
-## 8. Caption template  *(fixed style, reuse every post)*
+## 8. Caption template  *(SEO-first)*
+
+Captions are now search assets. Public creator posts are indexed by Google (since July 2025),
+and Instagram ranks on caption keywords, not hashtags. So the caption does the discovery work.
 
 Rules: plain sentences, no em-dashes, no flowery prose. Facts over adjectives.
 
+Structure:
 ```
-The town of [Name]: the side of [region] nobody tells you about [flag]
+[First line = keyword headline: place type + town + region + country + flag. This is the searchable title.]
 
-[2-4 plain factual sentences: why it's a gem, the value, the character.]
+[2-4 plain sentences, keyword-rich: the story or the value. Use real place names and terms people search (town, region, "agriturismo", "where to stay", activities).]
 
-📍 [Town, Region, Country]
-🍴 Restaurants between €[X]-[Y] per person
-🏨 Hotels up to [X]% cheaper
+📍 [Specific place, town, region, country]
+[1-3 fact bullets: 🏡 property / 🍷 drink / 🍴 food]
+💶 [price per night or price range]
 
-Would you stay here? 👇 Save it for your [country] trip.
+[Share CTA]. 👇 Save it for your [region] trip.
 ```
+Then 5 hashtags in the first comment at publish time.
 
-### Filled example — Gargnano
+Changed from the old template: the first line is a keyword headline for search, the body carries
+searchable keywords and place names, and there are two CTAs (a share CTA before the save CTA,
+because sends outrank saves).
+
+### Example — stay reel (Gubbio agriturismo)
 ```
-The town of Gargnano: the side of Lake Garda nobody tells you about 🇮🇹
+Lunch in the garden of an agriturismo near Gubbio, Umbria 🇮🇹
+
+We are staying at Antica Residenza Montereano, a family-run farmhouse in the Umbrian hills. Today the host set our table under a fig tree and brought out a bottle of local red on the house, with a handwritten note. It was an Umbria Rosso from a nearby winery, Cantina Antonioli. A slow lunch with the countryside all around and nothing to rush to.
+
+📍 Antica Residenza Montereano, near Gubbio, Umbria, Italy
+🏡 Family-run agriturismo, in the family since the 1920s
+🍷 Local Umbrian wine on the house from the host
+💶 Around €115 a night
+
+Send this to who you'd open the bottle with. 👇 Save it for your Umbria trip.
+```
+Hashtags: `#agriturismo #umbria #gubbio #hiddengems #slowtravel`
+
+### Example — town reel (Gargnano)
+```
+Gargnano, the quiet west side of Lake Garda, Italy 🇮🇹
 
 Less touristy than the south and east shores. Same water, fewer crowds. Hotels up to 50% cheaper. Lakefront espresso is still 1.10 euro. Olive groves and an old fishing harbour.
 
@@ -91,8 +115,9 @@ Less touristy than the south and east shores. Same water, fewer crowds. Hotels u
 🍴 Restaurants between €10-40 per person
 🏨 Hotels up to 50% cheaper
 
-Would you stay here? 👇 Save it for your Italy trip.
+Would you stay here? 👇 Send it to who you'd go with, and save it for your Italy trip.
 ```
+Hashtags: `#hiddengems #slowtravel #lakegarda #lagodigarda #gargnano`
 
 ---
 
