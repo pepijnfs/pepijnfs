@@ -92,16 +92,16 @@ because sends outrank saves).
 
 ### Example — stay reel (Gubbio agriturismo)
 ```
-Lunch in the garden of an agriturismo near Gubbio, Umbria 🇮🇹
+An agriturismo near Gubbio where lunch is in the garden, Umbria 🇮🇹
 
-We are staying at Antica Residenza Montereano, a family-run farmhouse in the Umbrian hills. Today the host set our table under a fig tree and brought out a bottle of local red on the house, with a handwritten note. It was an Umbria Rosso from a nearby winery, Cantina Antonioli. A slow lunch with the countryside all around and nothing to rush to.
+Antica Residenza Montereano is a family-run agriturismo in the Umbrian hills, a historic stone residence that has been in the same family since the 1920s. The owner sets your table in the garden under the fig trees, opens a local Umbria Rosso, and leaves you to a long lunch with nothing but countryside around you. This is what a slow stay in Umbria actually feels like.
 
 📍 Antica Residenza Montereano, near Gubbio, Umbria, Italy
 🏡 Family-run agriturismo, in the family since the 1920s
-🍷 Local Umbrian wine on the house from the host
+🍷 Local Umbria Rosso and homemade breakfast
 💶 Around €115 a night
 
-Send this to who you'd open the bottle with. 👇 Save it for your Umbria trip.
+Send this to who you'd share a long lunch with. 👇 Save it for your Umbria trip.
 ```
 Hashtags: `#agriturismo #umbria #gubbio #hiddengems #slowtravel`
 
