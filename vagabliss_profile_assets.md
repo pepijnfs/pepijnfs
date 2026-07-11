@@ -147,13 +147,40 @@ Full set example (Gargnano):
 
 ---
 
-## 10. Signature on-screen text style  *(keep identical every reel)*
+## 10. Text hook (share driver)
+
+Goal: drive shares. The text speaks to the viewer's own need or desire, so they think
+"I need this" and send it to someone. Shares are the top-weighted signal, so this one line is
+the highest-leverage text on the reel.
+
+Styling (keep identical every reel, this is your signature):
 ```
-Font: serif (Fraunces / Cormorant)
-Colour: white + subtle drop shadow
-Position: top third, same spot every time
+Small, centered, one line
+Ends with a colon (the open loop)
+Understated font, white, subtle shadow
+Same size and position every time
+Made in Instagram Edits or CapCut
 ```
-> Consistency here = instant recognition in the feed.
+
+Two flavours, pick by goal:
+- **Emotional, the "I need this" line (share magnet).** Speaks to the viewer's longing. Payoff is
+  the feeling plus the visual. Use for maximum shares.
+  Examples: "what my soul needs:", "a lunch with nowhere to be:", "the slow life I keep needing:"
+- **Curiosity, location or value (comments, saves, caption reads).**
+  Examples: "this beach in Sicily:", "€115 a night in Umbria:"
+
+Rules:
+- The text teases, it does not repeat the caption. The caption first line delivers the keyword headline.
+- Small and tasteful, not a bold marketer headline. It blends into the shot.
+- Use on growth posts, trial reels and cold-audience reels. Pure aesthetic feed posts can stay textless.
+
+Reference examples (pedrofcarreira):
+- "what my soul needs:" (window over the sea): 92.5K likes, 8,692 shares, 6,237 saves. Emotional, the share magnet.
+- "this beach in Sicily:": 75 comments, 78 shares. Location, drives comments.
+
+Applied to the lunch-in-the-garden reel:
+- Top pick: `a lunch with nowhere to be:`
+- Alts: `the slow week I keep saying I need:`, `what a real break feels like:`
 
 ---
 
