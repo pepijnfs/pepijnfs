@@ -1,0 +1,9 @@
+# One hook per line. Blank lines and lines starting with # are ignored.
+# Brand style hooks (small, understated, colon open loop):
+afternoons like this:
+the quiet side of Italy:
+a slow week in Umbria:
+the Italy I actually dream about:
+days like this:
+what a real break feels like:
+€115 a night in Umbria:
