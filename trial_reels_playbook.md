@@ -56,7 +56,7 @@ Combines the verified best practices with the tactics above.
 - [ ] Caption is keyword-led (town, region, country in the first line) for Instagram and Google search.
 - [ ] Caption carries the value or the payoff (price, what to do, why it is worth it).
 - [ ] One share CTA and one save CTA.
-- [ ] 5 hashtags maximum, in the first comment at publish time.
+- [ ] 5 hashtags maximum, at the end of the caption.
 - [ ] Native upload, H.264, 1080x1920, vertical, no other-platform watermark.
 - [ ] Decide: publish normally, or run as a trial reel first to test on non-followers.
 

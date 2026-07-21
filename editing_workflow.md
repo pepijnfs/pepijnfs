@@ -54,7 +54,7 @@ a visual change every ~1.5–2s, captions/text for sound-off, one save CTA, 15�
 - [ ] A visual change at least every ~2s (no static shot >3–4s)?
 - [ ] The *stay* is shown, not just scenery?
 - [ ] Exactly one CTA, and it's "save"?
-- [ ] Caption uses the template + 5–8 niche hashtags?
+- [ ] Caption uses the template + max 5 hashtags at the end of the caption?
 
 ## Verify with data
 Export a draft → run it through `reel_analyzer` (`python reel_analyzer/analyze_reel.py draft.mp4`)

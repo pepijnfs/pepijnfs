@@ -4,7 +4,7 @@ Brand: **Vagabliss** (vagabond + bliss). Niche: hidden gems across Europe + the 
 (the hotel & the area), not just the scenery. Tone: aspirational + warm. Voice: "we."
 
 Every asset is built to the verified best practices: keyword-led searchable name field,
-keyword bio (SEO > hashtags), one clear **save** CTA, 5–8 hashtags (not 30), and a fixed
+keyword bio (SEO > hashtags), one clear **save** CTA, max 5 hashtags in the caption, and a fixed
 on-screen-text signature.
 
 ---
@@ -84,7 +84,7 @@ Structure:
 
 [Share CTA]. 👇 Save it for your [region] trip.
 ```
-Then 5 hashtags in the first comment at publish time.
+Then 5 hashtags at the end of the caption, posted with the reel.
 
 Changed from the old template: the first line is a keyword headline for search, the body carries
 searchable keywords and place names, and there are two CTAs (a share CTA before the save CTA,
@@ -142,8 +142,9 @@ Full set example (Gargnano):
 #hiddengems #slowtravel #lakegarda #lagodigarda #gargnano
 ```
 > Location tip: include the local-language name (`#lagodigarda`) and the specific town
-> (`#gargnano`, low competition). Post them in the first comment at publish time, not edited in
-> later. Discovery now comes from caption + name-field keywords, not tags.
+> (`#gargnano`, low competition). Put them at the end of the caption, not in the first comment:
+> for small accounts caption hashtags outperform comment placement, and caption tags are indexed
+> the moment the post goes live. Discovery still comes from caption + name-field keywords first.
 
 ---
 
