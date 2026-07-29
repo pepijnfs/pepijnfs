@@ -60,6 +60,20 @@ Combines the verified best practices with the tactics above.
 - [ ] Native upload, H.264, 1080x1920, vertical, no other-platform watermark.
 - [ ] Decide: publish normally, or run as a trial reel first to test on non-followers.
 
+## Duplicate detection (learned the hard way, Jul 2026)
+
+Instagram matches trial reels on the footage itself (video fingerprinting + visual similarity),
+not the file, the sound, or the cut. Confirmed on this account: two hike edits from the same
+clips with different sounds, different beats, and different shot lengths still got flagged, and
+the second copy was capped at zero reach.
+
+Rules:
+- One edit per footage set. Never post two trials cut from the same clips.
+- Face-to-camera variants are safe only because each variant is a separate recording. A new
+  take is new footage. A re-cut is not.
+- The flag hits the copy, not the account. The first-posted edit stays eligible. Judge it on
+  the normal 24-72h window and delete the zero-reach copy.
+
 ## How to use trial reels for us
 
 1. For a new or uncertain reel, publish it as a trial to test on non-followers.
